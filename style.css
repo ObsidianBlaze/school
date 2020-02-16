@@ -1,0 +1,24 @@
+*{
+	background-color: #33fff3;
+}
+.logen{
+	padding: 50px;
+	text-align: center;
+
+}
+
+.form-control{
+	width: 25%;
+}
+
+ul li{
+	display: inline;
+	margin: 10px;
+	padding: 10px;
+	color: #DAF7A6;
+
+
+}
+li a{
+	text-decoration: none;
+}
