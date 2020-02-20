@@ -1,0 +1,2 @@
+I renamed the login.php to insert.php because of the feature is made for inserting data to the database.
+I made a routing condition that changes the page from the insert page back to the calling page(members page) with javascript.

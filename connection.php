@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $servername = "localhost";
 $username = "root";
@@ -10,6 +10,5 @@ $conn = new mysqli($servername, $username, $password, $db);
 //Check connection
 if ($conn->connect_error) {
 	die("connection failed: " . $conn->connect_error);
-
 }
-echo "Connected Successfully";
+	// echo "Connected Successfully";
